@@ -1,4 +1,4 @@
-# Simple-pdf-analyser
+# Simple-pdf-analyzer
 
 📚 Usage
 Upload a PDF file.
